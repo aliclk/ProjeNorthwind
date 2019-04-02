@@ -1,0 +1,14 @@
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Proje.Core.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Proje.Northwind.Entities.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.deps.json
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Proje.Core.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Proje.Northwind.Entities.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.pdb

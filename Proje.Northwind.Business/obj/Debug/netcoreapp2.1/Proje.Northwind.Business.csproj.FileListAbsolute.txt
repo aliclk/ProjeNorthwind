@@ -1,0 +1,16 @@
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Northwind.Business.deps.json
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Northwind.Business.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Northwind.Business.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Core.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Northwind.Entities.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Core.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Northwind.DataAccess.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\bin\Debug\netcoreapp2.1\Proje.Northwind.Entities.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\obj\Debug\netcoreapp2.1\Proje.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\obj\Debug\netcoreapp2.1\Proje.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\obj\Debug\netcoreapp2.1\Proje.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\obj\Debug\netcoreapp2.1\Proje.Northwind.Business.AssemblyInfo.cs
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\obj\Debug\netcoreapp2.1\Proje.Northwind.Business.csproj.CopyComplete
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\obj\Debug\netcoreapp2.1\Proje.Northwind.Business.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Business\obj\Debug\netcoreapp2.1\Proje.Northwind.Business.pdb

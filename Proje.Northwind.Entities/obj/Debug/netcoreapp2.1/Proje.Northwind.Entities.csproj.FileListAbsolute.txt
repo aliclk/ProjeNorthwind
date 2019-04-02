@@ -1,0 +1,12 @@
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\bin\Debug\netcoreapp2.1\Proje.Northwind.Entities.deps.json
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\bin\Debug\netcoreapp2.1\Proje.Northwind.Entities.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\bin\Debug\netcoreapp2.1\Proje.Northwind.Entities.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\bin\Debug\netcoreapp2.1\Proje.Core.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\bin\Debug\netcoreapp2.1\Proje.Core.pdb
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\obj\Debug\netcoreapp2.1\Proje.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\obj\Debug\netcoreapp2.1\Proje.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\obj\Debug\netcoreapp2.1\Proje.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\obj\Debug\netcoreapp2.1\Proje.Northwind.Entities.AssemblyInfo.cs
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\obj\Debug\netcoreapp2.1\Proje.Northwind.Entities.csproj.CopyComplete
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\obj\Debug\netcoreapp2.1\Proje.Northwind.Entities.dll
+C:\Users\isken\source\repos\Proje\Proje.Northwind.Entities\obj\Debug\netcoreapp2.1\Proje.Northwind.Entities.pdb

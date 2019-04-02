@@ -1,0 +1,33 @@
+﻿@model Proje.Northwind.MvcWeb.Models.ProductListViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+
+<body>
+    <div>
+        <table>
+            <tr>
+                <td>Product Name</td>
+                <td>Unit Price</td>
+                <td>Units In Stock</td>
+            </tr>
+            @foreach (var product in Model.Products)
+            {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.UnitPrice</td>
+                <td>@product.UnitInStock</td>
+            </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Proje.Core\Proje.Core.csproj" />
+    <ProjectReference Include="..\Proje.Northwind.DataAccess\Proje.Northwind.DataAccess.csproj" />
+    <ProjectReference Include="..\Proje.Northwind.Entities\Proje.Northwind.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
