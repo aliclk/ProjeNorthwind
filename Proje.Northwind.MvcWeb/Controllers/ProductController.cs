@@ -17,14 +17,25 @@ namespace Proje.Northwind.MvcWeb.Controllers
             _productService = productService;
         }
 
-        public ActionResult Index()
+        public ActionResult Index(int page=1,int category=0)
         {
-            var products = _productService.GetAll();
+            int pageSize = 10;
+            var products = _productService.GetByCategory(category);
             ProductListViewModel model = new ProductListViewModel
             {
-                Products = products
+                Products = products.Skip((page - 1) * pageSize).Take(pageSize).ToList(),
+                //skip=> ilk sayfayı atla take=> sonrakileri al
+                PageCount = (int)Math.Ceiling(products.Count /(double)pageSize),
+                PageSize = pageSize,
+                CurrentCategory=category,
+                CurrentPage=page
             };
             return View(model);
+        }
+
+        public ActionResult AddToCart()
+        {
+            return View();
         }
     }
 }

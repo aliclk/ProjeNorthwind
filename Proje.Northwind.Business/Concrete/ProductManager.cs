@@ -26,25 +26,25 @@ namespace Proje.Northwind.Business.Concrete
             _productDal.Delete(new Product { ProductId=productId});
         }
 
-        public List<Product> GetAll(int categoryId)
-        {
-            return _productDal.GetList(p=>p.CategoryId==categoryId);
-            //veritabanına direk where koşullu sorgu gönderdik.
-        }
-
         public List<Product> GetAll()
         {
-            throw new NotImplementedException();
+            return _productDal.GetList();
+           
         }
 
         public List<Product> GetByCategory(int categoryId)
         {
-            throw new NotImplementedException();
+            return _productDal.GetList(p => p.CategoryId == categoryId || categoryId==0);
         }
 
         public void Update(Product product)
         {
             _productDal.Update(product);
+        }
+
+        public Product GetById(int productId)
+        {
+            return _productDal.Get(p => p.ProductId == productId);
         }
     }
 }

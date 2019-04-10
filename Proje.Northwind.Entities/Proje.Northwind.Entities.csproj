@@ -5,15 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Complex Types\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.3" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Proje.Core\Proje.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Complex Types\" />
   </ItemGroup>
 
 </Project>
