@@ -114,3 +114,12 @@ F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1
 F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryList\Default.g.cshtml.cs
 F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\_ViewImports.g.cshtml.cs
 F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cart\List.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Complete.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\_LayoutAdmin.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Add.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Update.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+F:\PROJELER\ProjeNorthwind-master\Proje.Northwind.MvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserSummary\Default.g.cshtml.cs
